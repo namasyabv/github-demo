@@ -1,7 +1,7 @@
 
 #add imlemenatation
 def add(x,y):
-    pass
+    return x+y
 # subtract imlemenatation
 def subtract(x,y):
     pass
