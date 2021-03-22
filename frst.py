@@ -12,7 +12,7 @@ def subtract(x,y):
  
 # multiply imlemenatation
 def multiply(x,y):
-    pass
+    return x*y
 #divide imlemenatation
 def divide(x,y):
     pass
