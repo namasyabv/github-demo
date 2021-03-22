@@ -15,4 +15,4 @@ def multiply(x,y):
     return x*y
 #divide imlemenatation
 def divide(x,y):
-    pass
+    return x/y
